@@ -73,7 +73,7 @@ If you want to contribute to this project, feel free to fork the repository and 
 
 ## Contact
 
-For any questions or suggestions, please feel free to contact me at your.email@example.com.
+For any questions or suggestions, please feel free to contact me at madalinagomei@gmail.com.
 
 ---
 
