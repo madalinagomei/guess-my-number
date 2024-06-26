@@ -1,7 +1,3 @@
-Here is a detailed README description for your "Guess My Number!" game project on GitHub:
-
----
-
 # Guess My Number!
 
 Welcome to the "Guess My Number!" game! This project is a simple number guessing game developed using HTML, CSS, and JavaScript. The game is designed to be fully responsive and works seamlessly on desktop, tablet, and mobile devices.
